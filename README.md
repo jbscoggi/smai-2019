@@ -1,4 +1,5 @@
-**Presentations from the SMAI 2019 Mini-Symposium: "Breaking the Mesh: Solving Partial Differential Equations with Deep Learning"**
+## Breaking the Mesh: Solving Partial Differential Equations with Deep Learning
+**SMAI 2019 Mini-Symposium**
 
 This repository hosts the presentations from the SMAI 2019 Mini-Symposium on [Breaking the Mesh: Solving Partial Differential Equations with Deep Learning](http://smai.emath.fr/smai2019/programme_detaille.php).  The symposium was organized jointly [J.B. Scoggins](www.jbscoggins.com) and [Loïc Gouarin](https://github.com/gouarin).  The speaker bios and presentations are provided below in the order they were presented.
 
