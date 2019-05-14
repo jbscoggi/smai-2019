@@ -4,9 +4,11 @@ This repository hosts the presentations from the SMAI 2019 Mini-Symposium on [Br
 
 **James B. Scoggins**
 
-[Solving Partial Differential Equations with Deep Learning](smai_2019_scoggins.pdf)
+[Solving Partial Differential Equations with Deep Learning](https://github.com/jbscoggi/smai-2019/raw/smai_2019_scoggins.pdf)
 
-**Philippe von Wurstemburger**
+**Philippe von Wurstemberger**
+
+[Overcoming the curse of dimensionality with DNNs: Theoretical approximation results for PDEs](https://github.com/jbscoggi/smai-2019/raw/smai_2019_vonwurstemberger.pdf)
 
 **Rémi Gribonval**
 
