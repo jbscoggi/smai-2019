@@ -12,6 +12,7 @@ This repository hosts the presentations from the SMAI 2019 Mini-Symposium on [Br
 <br>[[Abstract]](https://github.com/jbscoggi/smai-2019/raw/master/abstracts/von_wurstemberger.pdf)
 
 **Rémi Gribonval**
+<br>[Approximation with deep networks](https://github.com/jbscoggi/smai-2019/raw/master/smai_2019_gribonval.pdf) 
 <br>[[Abstract]](https://github.com/jbscoggi/smai-2019/raw/master/abstracts/gribonval.pdf)
 
 **Siamak Mehrkanoon**
